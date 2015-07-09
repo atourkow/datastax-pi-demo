@@ -1,0 +1,41 @@
+Intro self and agenda
+
+OpsCenter - Talk about from an operational standpoint
+  Show Search OpsC
+  Overview 
+    Graphs, Adding, Forecasting
+  Node status
+  Services
+    Backup, Show scheduled, How to add a location
+    Repair Service
+    Best Practice Services
+      Click to show more info
+  Alerts
+    Show Adding
+    Mention email alerts need to be done in config file and can be custom formatted
+      http://docs.datastax.com/en/opscenter/5.1/opsc/configure/opscEnablingEmailAlerts_t.html
+  Database
+    Use Pi
+    Show Keyspace and how you can edit
+    Show Column Families
+    Talk about Slow Queries in 5.2
+  Configuration
+    You can configure for all
+  Add Nodes
+
+Always on
+  Replication Image
+  Describe Python Code
+  Run Python Code
+  Show Dev Center and show Query
+  Kill node
+    Show Query
+    Show OpsC
+  Return Node
+
+Thanks & Questions?
+
+
+
+
+
